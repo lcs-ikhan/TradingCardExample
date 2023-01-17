@@ -22,4 +22,4 @@ let mrSunglasses = Card(emoji: "😎", description: "Having a sunny disposition,
 
 let laughingPerson = Card(emoji: "😂", description: "A person who loves to laugh at anything.", age: "16", height: "177 cm", sign: "Aquarias", color: Color("lime"), name: "Mr. Joyous")
 
-let angryPerson = Card(emoji: "🤬", description: "Gets angry at the slightest disturbance, has a potty mouth.", age: "34", height: "156 cm", sign: "Aries", color: Color("Sky"), name: "Mr. Angry")
+let angryPerson = Card(emoji: "🤬", description: "Gets angry at the slightest disturbance and has a potty mouth.", age: "34", height: "156 cm", sign: "Aries", color: Color("Sky"), name: "Mr. Angry")
